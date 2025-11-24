@@ -1,1 +1,0 @@
-# juridico.ai.prompt
